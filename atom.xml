@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Poetry In Motion]]></title>
+  <link href="http://xldenis.github.com/atom.xml" rel="self"/>
+  <link href="http://xldenis.github.com/"/>
+  <updated>2011-10-23T18:46:43-05:00</updated>
+  <id>http://xldenis.github.com/</id>
+  <author>
+    <name><![CDATA[Xavier Denis]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
