@@ -4,7 +4,7 @@
   <title><![CDATA[Poetry In Motion]]></title>
   <link href="http://xldenis.github.com/atom.xml" rel="self"/>
   <link href="http://xldenis.github.com/"/>
-  <updated>2011-10-24T12:46:27-05:00</updated>
+  <updated>2011-10-24T12:48:30-05:00</updated>
   <id>http://xldenis.github.com/</id>
   <author>
     <name><![CDATA[Xavier Denis]]></name>
@@ -12,23 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Brad is stupid]]></title>
-    <link href="http://xldenis.github.com/blog/2011/10/24/brad-is-stupid/"/>
-    <updated>2011-10-24T12:46:00-05:00</updated>
-    <id>http://xldenis.github.com/blog/2011/10/24/brad-is-stupid</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[test]]></title>
-    <link href="http://xldenis.github.com/blog/2011/10/24/test/"/>
-    <updated>2011-10-24T12:41:00-05:00</updated>
-    <id>http://xldenis.github.com/blog/2011/10/24/test</id>
-    <content type="html"><![CDATA[<p><strong><em> TESTING </em></strong></p>
-]]></content>
-  </entry>
   
 </feed>
