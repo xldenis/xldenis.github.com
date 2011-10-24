@@ -4,7 +4,7 @@
   <title><![CDATA[Poetry In Motion]]></title>
   <link href="http://xldenis.github.com/atom.xml" rel="self"/>
   <link href="http://xldenis.github.com/"/>
-  <updated>2011-10-23T20:43:28-05:00</updated>
+  <updated>2011-10-23T20:45:12-05:00</updated>
   <id>http://xldenis.github.com/</id>
   <author>
     <name><![CDATA[Xavier Denis]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Test]]></title>
-    <link href="http://xldenis.github.com/blog/2011/10/23/test/"/>
-    <updated>2011-10-23T20:43:00-05:00</updated>
-    <id>http://xldenis.github.com/blog/2011/10/23/test</id>
-    <content type="html"><![CDATA[<p>Testginasdnainaidandaisndiandsiandsidifqdiansfisnf</p>
-]]></content>
-  </entry>
   
 </feed>
